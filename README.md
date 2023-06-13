@@ -18,16 +18,16 @@ Here are some ideas to get you started:
   </tbody>
 </table>
 
-<img align="right" alt="Visitor Counter" src="https://komarev.com/ghpvc/?username=htchu&style=flat-square&&label=Profile+Views&color=50A1FF">
+<img align="right" alt="Visitor Counter" src="https://komarev.com/ghpvc/?username=daydream456&style=flat-square&&label=Profile+Views&color=50A1FF">
 
 ---
 
 ### Github Analytics
-<a href="https://github.com/htchu">
+<a href="https://github.com/daydream456">
   <img src="https://github-readme-stats.vercel.app/api?username=htchu&count_private=true&show_icons=true&include_all_commits=true" />
 </a>
 
 ### Most Used Languages
-<a href="https://github.com/htchu">
+<a href="https://github.com/daydream456">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=htchu&layout=compact&hide=HTML,CSS,Stylus,CoffeeScript,EJS&langs_count=10" />
 </a>
